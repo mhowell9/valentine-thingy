@@ -1,0 +1,29 @@
+.thingy {
+    display: flex;
+    justify-content: center;
+}
+
+.img-div {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+#center-img {
+    width: 20%;
+}
+
+.choice-button {
+    text-align: center;
+    padding: 10px 24px;
+    margin: 4px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+body {
+    background-color: #eddecc
+}
